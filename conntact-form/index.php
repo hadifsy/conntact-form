@@ -21,7 +21,7 @@
         // If No Errors Send The Email [ mail(To, Subject, Message, Headers, Parameters) ]
         
         $headers = 'From: ' . $mail . '\r\n';
-        $myEmail = 'hadesy111@gmail.com';
+        $myEmail = 'hadif2work@gmail.com';
         $subject = 'Contact Form';
         
         if (empty($formErrors)) {
